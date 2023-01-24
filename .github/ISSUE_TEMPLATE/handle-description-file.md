@@ -11,6 +11,7 @@ assignees: ''
 - [ ] In the newly created file add some [`MarkDown`](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) code to the describe yourself. It shall include:
     - [ ] A level 1 header with your full name.
     - [ ] A level 2 header with your github handle.
-    - [ ] An image of yourself.
+    - [ ] An image (of yourself - prefeably).
     - [ ] A bulleted list of things you are currently working on.
     - [ ] A link to all your public repositories on GitHub.
+    - [ ] Your GMail (if you have more, then just the one you'd like to use for sharing documents).
