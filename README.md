@@ -3,7 +3,8 @@ Companion repository to [Flipped Classroom](https://docs.kea.dev/posts/flipped-c
 
 # Activities
 ## Discussions
-1. If - during the following exerciuse - you have _anything_ you need help with - got to the [Discussions @ kea-dev/Flipped-Classroom](https://github.com/kea-dev/Flipped-Classroom/discussions) and pop it! 
+1. If - during the following exerciuse - you have _anything_ you need help with - go to the [Discussions @ kea-dev/Flipped-Classroom](https://github.com/kea-dev/Flipped-Classroom/discussions) and pop it! 
+2. Evaluate the the [Q&As](https://github.com/kea-dev/Flipped-Classroom/discussions/categories/q-a) - and specifically the two about the roles of [instructors](https://github.com/kea-dev/Flipped-Classroom/discussions/4) and [learners](https://github.com/kea-dev/Flipped-Classroom/discussions/5) in a flipped classroom context - vote up the questions and replies you like - or offer new replies if you don't like any of them.
 
 ## GitHub and MarkDown
 1. Each class must [create a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of this repo - but _only one for each class!_ - so you must plan it as a joint effort!
