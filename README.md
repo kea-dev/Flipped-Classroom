@@ -1,13 +1,8 @@
 # Flipped-Classroom
-"Open Source Community" for Flipped Classroom
+Companion repository to [Flipped Classroom](https://docs.kea.dev/posts/flipped-classroom/).
 
-## Resources
-
-### [Wikipedia on _Flipped Classroom_](https://en.wikipedia.org/wiki/Flipped_classroom)
-Read the article (≈4600 words ≈ 20:00 reading).
-
-###[Flipped Classroom Model: Why, How, and Overview](https://www.youtube.com/watch?v=BCIxikOq73Q)
-Watch the video. (≈5:00).
-
-### [Search for more videos on Flipped Classroom](https://www.google.com/search?q=flipped+classroom&source=lnms&tbm=vid)
-Quickly browse the organic (non-sponsored) results. Pick two or three with length <span title="Less than">></span/><10:00 from the search results and watch them (or if they aren't any good, skip them and forward to another) - make a note of which one yous saw and rank them by your own preference on wether you would recommend them for others interested in understanding Flipped Classroom (time box this exercise to 30:00 in total).
+# Activities
+1. Each class must [create a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of this repo - but _only one for each class!_ - so you must plan it as a joint effort!
+2. In the new repo ensure that [everyone in class is added as collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository).
+4. Each colloborator must go and create a new issue (in the fork) based on the `Handle Description File` template - leave the issue body unchange - only change the title  - replace `[HANDEL]` - with your actual handle name.
+3. Each individual collaborator must use [an online editor](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files) too follow the instructions in the isseue they just created.
